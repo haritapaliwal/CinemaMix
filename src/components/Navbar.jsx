@@ -15,7 +15,7 @@ export const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2 text-white hover:text-yellow-400 transition-colors">
             <Film className="h-8 w-8" />
-            <span className="text-xl font-bold">CinemaMax</span>
+            <span className="text-xl font-bold">CinemaMax-Harita</span>
           </Link>
           
           <div className="flex items-center space-x-8">
